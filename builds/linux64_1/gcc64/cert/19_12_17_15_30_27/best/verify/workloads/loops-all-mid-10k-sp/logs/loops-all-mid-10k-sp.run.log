@@ -1,0 +1,30 @@
+-  Info: Starting Run...
+-- Workload:loops-all-mid-10k-sp=1814569103
+-- loops-all-mid-10k-sp:time(ns)=178
+-- loops-all-mid-10k-sp:contexts=4
+-- loops-all-mid-10k-sp:iterations=1
+-- loops-all-mid-10k-sp:time(secs)=   0.178
+-- loops-all-mid-10k-sp:secs/workload=   0.178
+-- loops-all-mid-10k-sp:workloads/sec= 5.61798
+Info: This run was executed with verification turned on! For performance results, use -v0.
+-- loops-all-mid:UID=10000
+-- loops-all-mid:fails=0
+-- loops-all-mid:time(ticks)=176
+-- loops-all-mid:count=1
+-- loops-all-mid:repeats=0
+-- loops-all-mid:v1=10000
+-- loops-all-mid:v2=100
+-- loops-all-mid:v3=73686179
+-- loops-all-mid:v4=23
+-- loops-all-mid:f1=1.094340e+04
+-- loops-all-mid:f2=0.000000e+00
+-- loops-all-mid:f3=0.000000e+00
+-- loops-all-mid:f4=0.000000e+00
+-- loops-all-mid:secs/repeat=     inf
+-- loops-all-mid:repeats/sec=       0
+-- loops-all-mid:time(secs)=   0.176
+-- loops-all-mid:secs/item=   0.176
+-- loops-all-mid:items/sec= 5.68182
+-- Items:total(ticks)=176
+-- Items:total(secs)=   0.176
+-- Done:loops-all-mid-10k-sp=1814569103

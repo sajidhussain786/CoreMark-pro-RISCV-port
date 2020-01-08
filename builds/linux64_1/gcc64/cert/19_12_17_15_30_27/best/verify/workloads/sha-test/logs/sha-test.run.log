@@ -1,0 +1,30 @@
+-  Info: Starting Run...
+-- Workload:sha-test=1050863061
+-- sha-test:time(ns)=8
+-- sha-test:contexts=4
+-- sha-test:iterations=1
+-- sha-test:time(secs)=   0.008
+-- sha-test:secs/workload=   0.008
+-- sha-test:workloads/sec=     125
+Info: This run was executed with verification turned on! For performance results, use -v0.
+-- sha:UID=10000
+-- sha:fails=0
+-- sha:time(ticks)=8
+-- sha:count=1
+-- sha:repeats=0
+-- sha:v1=0
+-- sha:v2=0
+-- sha:v3=0
+-- sha:v4=0
+-- sha:f1=0.000000e+00
+-- sha:f2=0.000000e+00
+-- sha:f3=0.000000e+00
+-- sha:f4=0.000000e+00
+-- sha:secs/repeat=     inf
+-- sha:repeats/sec=       0
+-- sha:time(secs)=   0.008
+-- sha:secs/item=   0.008
+-- sha:items/sec=     125
+-- Items:total(ticks)=8
+-- Items:total(secs)=   0.008
+-- Done:sha-test=1050863061

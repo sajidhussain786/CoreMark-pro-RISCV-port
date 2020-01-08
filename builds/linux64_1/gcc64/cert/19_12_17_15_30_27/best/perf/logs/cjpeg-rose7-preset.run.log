@@ -1,0 +1,23 @@
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+-  Info: Starting Run...
+-- Workload:cjpeg-rose7-preset=236760500
+-- cjpeg-rose7-preset:time(ns)=19
+-- cjpeg-rose7-preset:contexts=4
+-- cjpeg-rose7-preset:iterations=10
+-- cjpeg-rose7-preset:time(secs)=   0.019
+-- cjpeg-rose7-preset:secs/workload=  0.0019
+-- cjpeg-rose7-preset:workloads/sec= 526.316
+-- Done:cjpeg-rose7-preset=236760500

@@ -1,0 +1,30 @@
+-  Info: Starting Run...
+-- Workload:radix2-big-64k=1862946660
+-- radix2-big-64k:time(ns)=14
+-- radix2-big-64k:contexts=4
+-- radix2-big-64k:iterations=1
+-- radix2-big-64k:time(secs)=   0.014
+-- radix2-big-64k:secs/workload=   0.014
+-- radix2-big-64k:workloads/sec= 71.4286
+Info: This run was executed with verification turned on! For performance results, use -v0.
+-- radix2-big:UID=10000
+-- radix2-big:fails=0
+-- radix2-big:time(ticks)=4
+-- radix2-big:count=1
+-- radix2-big:repeats=0
+-- radix2-big:v1=52
+-- radix2-big:v2=0
+-- radix2-big:v3=0
+-- radix2-big:v4=0
+-- radix2-big:f1=1.280328e+02
+-- radix2-big:f2=-2.674624e+07
+-- radix2-big:f3=2.676481e+07
+-- radix2-big:f4=0.000000e+00
+-- radix2-big:secs/repeat=     inf
+-- radix2-big:repeats/sec=       0
+-- radix2-big:time(secs)=   0.004
+-- radix2-big:secs/item=   0.004
+-- radix2-big:items/sec=     250
+-- Items:total(ticks)=4
+-- Items:total(secs)=   0.004
+-- Done:radix2-big-64k=1862946660

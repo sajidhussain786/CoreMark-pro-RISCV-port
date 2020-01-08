@@ -1,0 +1,31 @@
+-  Info: Starting Run...
+-- Workload:core=490760323
+-- core:time(ns)=607
+-- core:contexts=1
+-- core:workers=1
+-- core:iterations=1
+-- core:time(secs)=   0.607
+-- core:secs/workload=   0.607
+-- core:workloads/sec= 1.64745
+Info: This run was executed with verification turned on! For performance results, use -v0.
+-- core:UID=10000
+-- core:fails=0
+-- core:time(ticks)=607
+-- core:count=1
+-- core:repeats=0
+-- core:v1=0
+-- core:v2=0
+-- core:v3=0
+-- core:v4=0
+-- core:f1=0.000000e+00
+-- core:f2=0.000000e+00
+-- core:f3=0.000000e+00
+-- core:f4=0.000000e+00
+-- core:secs/repeat=     inf
+-- core:repeats/sec=       0
+-- core:time(secs)=   0.607
+-- core:secs/item=   0.607
+-- core:items/sec= 1.64745
+-- Items:total(ticks)=607
+-- Items:total(secs)=   0.607
+-- Done:core=490760323

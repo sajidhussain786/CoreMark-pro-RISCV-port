@@ -1,0 +1,9 @@
+-  Info: Starting Run...
+-- Workload:nnet_test=549578576
+-- nnet_test:time(ns)=421
+-- nnet_test:contexts=4
+-- nnet_test:iterations=10
+-- nnet_test:time(secs)=   0.421
+-- nnet_test:secs/workload=  0.0421
+-- nnet_test:workloads/sec=  23.753
+-- Done:nnet_test=549578576

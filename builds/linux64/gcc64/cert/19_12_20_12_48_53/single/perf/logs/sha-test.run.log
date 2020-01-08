@@ -1,0 +1,10 @@
+-  Info: Starting Run...
+-- Workload:sha-test=1050863061
+-- sha-test:time(ns)=54
+-- sha-test:contexts=1
+-- sha-test:workers=1
+-- sha-test:iterations=10
+-- sha-test:time(secs)=   0.054
+-- sha-test:secs/workload=  0.0054
+-- sha-test:workloads/sec= 185.185
+-- Done:sha-test=1050863061

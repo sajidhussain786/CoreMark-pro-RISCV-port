@@ -1,0 +1,30 @@
+
+WORKLOAD RESULTS TABLE
+
+                                                 MultiCore SingleCore           
+Workload Name                                     (iter/s)   (iter/s)    Scaling
+----------------------------------------------- ---------- ---------- ----------
+
+MARK RESULTS TABLE
+
+Mark Name                                        MultiCore SingleCore    Scaling
+----------------------------------------------- ---------- ---------- ----------
+cert_mark.pl: ERROR: Missing score for sha-test (single)
+cert_mark.pl: ERROR: Missing score for cjpeg-rose7-preset (single)
+cert_mark.pl: ERROR: Missing score for parser-125k (single)
+cert_mark.pl: ERROR: Missing score for loops-all-mid-10k-sp (single)
+cert_mark.pl: ERROR: Missing score for nnet_test (single)
+cert_mark.pl: ERROR: Missing score for zip-test (single)
+cert_mark.pl: ERROR: Missing score for core (single)
+cert_mark.pl: ERROR: Missing score for linear_alg-mid-100x100-sp (single)
+cert_mark.pl: ERROR: Missing score for radix2-big-64k (single)
+cert_mark.pl: ERROR: Missing score for sha-test (best)
+cert_mark.pl: ERROR: Missing score for cjpeg-rose7-preset (best)
+cert_mark.pl: ERROR: Missing score for parser-125k (best)
+cert_mark.pl: ERROR: Missing score for loops-all-mid-10k-sp (best)
+cert_mark.pl: ERROR: Missing score for nnet_test (best)
+cert_mark.pl: ERROR: Missing score for zip-test (best)
+cert_mark.pl: ERROR: Missing score for core (best)
+cert_mark.pl: ERROR: Missing score for linear_alg-mid-100x100-sp (best)
+cert_mark.pl: ERROR: Missing score for radix2-big-64k (best)
+cert_mark.pl: ERROR: Could not compute score for 'CoreMark-PRO'

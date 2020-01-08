@@ -1,0 +1,152 @@
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+-  Info: Starting Run...
+-- Workload:cjpeg-rose7-preset=236760500
+-- cjpeg-rose7-preset:time(ns)=4
+-- cjpeg-rose7-preset:contexts=4
+-- cjpeg-rose7-preset:iterations=1
+-- cjpeg-rose7-preset:time(secs)=   0.004
+-- cjpeg-rose7-preset:secs/workload=   0.004
+-- cjpeg-rose7-preset:workloads/sec=     250
+Info: This run was executed with verification turned on! For performance results, use -v0.
+-- cjpeg-data1:UID=10000
+-- cjpeg-data1:fails=0
+-- cjpeg-data1:time(ticks)=1
+-- cjpeg-data1:count=1
+-- cjpeg-data1:repeats=1
+-- cjpeg-data1:v1=0
+-- cjpeg-data1:v2=0
+-- cjpeg-data1:v3=0
+-- cjpeg-data1:v4=0
+-- cjpeg-data1:f1=0.000000e+00
+-- cjpeg-data1:f2=0.000000e+00
+-- cjpeg-data1:f3=0.000000e+00
+-- cjpeg-data1:f4=0.000000e+00
+-- cjpeg-data1:secs/repeat=   0.001
+-- cjpeg-data1:repeats/sec=    1000
+-- cjpeg-data1:time(secs)=   0.001
+-- cjpeg-data1:secs/item=   0.001
+-- cjpeg-data1:items/sec=    1000
+-- cjpeg-data1:UID=10001
+-- cjpeg-data1:fails=0
+-- cjpeg-data1:time(ticks)=1
+-- cjpeg-data1:count=1
+-- cjpeg-data1:repeats=1
+-- cjpeg-data1:v1=0
+-- cjpeg-data1:v2=0
+-- cjpeg-data1:v3=0
+-- cjpeg-data1:v4=0
+-- cjpeg-data1:f1=0.000000e+00
+-- cjpeg-data1:f2=0.000000e+00
+-- cjpeg-data1:f3=0.000000e+00
+-- cjpeg-data1:f4=0.000000e+00
+-- cjpeg-data1:secs/repeat=   0.001
+-- cjpeg-data1:repeats/sec=    1000
+-- cjpeg-data1:time(secs)=   0.001
+-- cjpeg-data1:secs/item=   0.001
+-- cjpeg-data1:items/sec=    1000
+-- cjpeg-data1:UID=10002
+-- cjpeg-data1:fails=0
+-- cjpeg-data1:time(ticks)=1
+-- cjpeg-data1:count=1
+-- cjpeg-data1:repeats=1
+-- cjpeg-data1:v1=0
+-- cjpeg-data1:v2=0
+-- cjpeg-data1:v3=0
+-- cjpeg-data1:v4=0
+-- cjpeg-data1:f1=0.000000e+00
+-- cjpeg-data1:f2=0.000000e+00
+-- cjpeg-data1:f3=0.000000e+00
+-- cjpeg-data1:f4=0.000000e+00
+-- cjpeg-data1:secs/repeat=   0.001
+-- cjpeg-data1:repeats/sec=    1000
+-- cjpeg-data1:time(secs)=   0.001
+-- cjpeg-data1:secs/item=   0.001
+-- cjpeg-data1:items/sec=    1000
+-- cjpeg-data1:UID=10003
+-- cjpeg-data1:fails=0
+-- cjpeg-data1:time(ticks)=1
+-- cjpeg-data1:count=1
+-- cjpeg-data1:repeats=1
+-- cjpeg-data1:v1=0
+-- cjpeg-data1:v2=0
+-- cjpeg-data1:v3=0
+-- cjpeg-data1:v4=0
+-- cjpeg-data1:f1=0.000000e+00
+-- cjpeg-data1:f2=0.000000e+00
+-- cjpeg-data1:f3=0.000000e+00
+-- cjpeg-data1:f4=0.000000e+00
+-- cjpeg-data1:secs/repeat=   0.001
+-- cjpeg-data1:repeats/sec=    1000
+-- cjpeg-data1:time(secs)=   0.001
+-- cjpeg-data1:secs/item=   0.001
+-- cjpeg-data1:items/sec=    1000
+-- cjpeg-data1:UID=10004
+-- cjpeg-data1:fails=0
+-- cjpeg-data1:time(ticks)=2
+-- cjpeg-data1:count=1
+-- cjpeg-data1:repeats=1
+-- cjpeg-data1:v1=0
+-- cjpeg-data1:v2=0
+-- cjpeg-data1:v3=0
+-- cjpeg-data1:v4=0
+-- cjpeg-data1:f1=0.000000e+00
+-- cjpeg-data1:f2=0.000000e+00
+-- cjpeg-data1:f3=0.000000e+00
+-- cjpeg-data1:f4=0.000000e+00
+-- cjpeg-data1:secs/repeat=   0.002
+-- cjpeg-data1:repeats/sec=     500
+-- cjpeg-data1:time(secs)=   0.002
+-- cjpeg-data1:secs/item=   0.002
+-- cjpeg-data1:items/sec=     500
+-- cjpeg-data1:UID=10005
+-- cjpeg-data1:fails=0
+-- cjpeg-data1:time(ticks)=2
+-- cjpeg-data1:count=1
+-- cjpeg-data1:repeats=1
+-- cjpeg-data1:v1=0
+-- cjpeg-data1:v2=0
+-- cjpeg-data1:v3=0
+-- cjpeg-data1:v4=0
+-- cjpeg-data1:f1=0.000000e+00
+-- cjpeg-data1:f2=0.000000e+00
+-- cjpeg-data1:f3=0.000000e+00
+-- cjpeg-data1:f4=0.000000e+00
+-- cjpeg-data1:secs/repeat=   0.002
+-- cjpeg-data1:repeats/sec=     500
+-- cjpeg-data1:time(secs)=   0.002
+-- cjpeg-data1:secs/item=   0.002
+-- cjpeg-data1:items/sec=     500
+-- cjpeg-data1:UID=10006
+-- cjpeg-data1:fails=0
+-- cjpeg-data1:time(ticks)=1
+-- cjpeg-data1:count=1
+-- cjpeg-data1:repeats=1
+-- cjpeg-data1:v1=0
+-- cjpeg-data1:v2=0
+-- cjpeg-data1:v3=0
+-- cjpeg-data1:v4=0
+-- cjpeg-data1:f1=0.000000e+00
+-- cjpeg-data1:f2=0.000000e+00
+-- cjpeg-data1:f3=0.000000e+00
+-- cjpeg-data1:f4=0.000000e+00
+-- cjpeg-data1:secs/repeat=   0.001
+-- cjpeg-data1:repeats/sec=    1000
+-- cjpeg-data1:time(secs)=   0.001
+-- cjpeg-data1:secs/item=   0.001
+-- cjpeg-data1:items/sec=    1000
+-- Items:total(ticks)=9
+-- Items:total(secs)=   0.009
+-- Done:cjpeg-rose7-preset=236760500

@@ -1,0 +1,30 @@
+-  Info: Starting Run...
+-- Workload:nnet_test=549578576
+-- nnet_test:time(ns)=141
+-- nnet_test:contexts=4
+-- nnet_test:iterations=1
+-- nnet_test:time(secs)=   0.141
+-- nnet_test:secs/workload=   0.141
+-- nnet_test:workloads/sec=  7.0922
+Info: This run was executed with verification turned on! For performance results, use -v0.
+-- nnet:UID=10000
+-- nnet:fails=0
+-- nnet:time(ticks)=140
+-- nnet:count=1
+-- nnet:repeats=0
+-- nnet:v1=50
+-- nnet:v2=453
+-- nnet:v3=0
+-- nnet:v4=0
+-- nnet:f1=7.000562e-03
+-- nnet:f2=9.997441e-02
+-- nnet:f3=0.000000e+00
+-- nnet:f4=0.000000e+00
+-- nnet:secs/repeat=     inf
+-- nnet:repeats/sec=       0
+-- nnet:time(secs)=    0.14
+-- nnet:secs/item=    0.14
+-- nnet:items/sec= 7.14286
+-- Items:total(ticks)=140
+-- Items:total(secs)=    0.14
+-- Done:nnet_test=549578576

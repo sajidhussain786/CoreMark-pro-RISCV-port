@@ -1,0 +1,30 @@
+-  Info: Starting Run...
+-- Workload:parser-125k=780641437
+-- parser-125k:time(ns)=44
+-- parser-125k:contexts=4
+-- parser-125k:iterations=1
+-- parser-125k:time(secs)=   0.044
+-- parser-125k:secs/workload=   0.044
+-- parser-125k:workloads/sec= 22.7273
+Info: This run was executed with verification turned on! For performance results, use -v0.
+-- xml-parser:UID=10000
+-- xml-parser:fails=0
+-- xml-parser:time(ticks)=44
+-- xml-parser:count=1
+-- xml-parser:repeats=0
+-- xml-parser:v1=22264
+-- xml-parser:v2=0
+-- xml-parser:v3=0
+-- xml-parser:v4=0
+-- xml-parser:f1=0.000000e+00
+-- xml-parser:f2=0.000000e+00
+-- xml-parser:f3=0.000000e+00
+-- xml-parser:f4=0.000000e+00
+-- xml-parser:secs/repeat=     inf
+-- xml-parser:repeats/sec=       0
+-- xml-parser:time(secs)=   0.044
+-- xml-parser:secs/item=   0.044
+-- xml-parser:items/sec= 22.7273
+-- Items:total(ticks)=44
+-- Items:total(secs)=   0.044
+-- Done:parser-125k=780641437

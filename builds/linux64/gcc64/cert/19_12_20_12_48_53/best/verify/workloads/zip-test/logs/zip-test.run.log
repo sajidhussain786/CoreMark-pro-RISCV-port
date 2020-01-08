@@ -1,0 +1,30 @@
+-  Info: Starting Run...
+-- Workload:zip-test=946108807
+-- zip-test:time(ns)=11
+-- zip-test:contexts=4
+-- zip-test:iterations=1
+-- zip-test:time(secs)=   0.011
+-- zip-test:secs/workload=   0.011
+-- zip-test:workloads/sec= 90.9091
+Info: This run was executed with verification turned on! For performance results, use -v0.
+-- zip:UID=10000
+-- zip:fails=0
+-- zip:time(ticks)=11
+-- zip:count=1
+-- zip:repeats=0
+-- zip:v1=13560
+-- zip:v2=0
+-- zip:v3=0
+-- zip:v4=0
+-- zip:f1=0.000000e+00
+-- zip:f2=0.000000e+00
+-- zip:f3=0.000000e+00
+-- zip:f4=0.000000e+00
+-- zip:secs/repeat=     inf
+-- zip:repeats/sec=       0
+-- zip:time(secs)=   0.011
+-- zip:secs/item=   0.011
+-- zip:items/sec= 90.9091
+-- Items:total(ticks)=11
+-- Items:total(secs)=   0.011
+-- Done:zip-test=946108807
