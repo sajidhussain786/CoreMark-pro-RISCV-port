@@ -13,4 +13,5 @@ or
 
 $   make TARGET=linux64 XCMD='-c4' certify-all
 
+to build and run all the benchmarks. It will process the result using perl script and outputs it to the screen. it worked for me when using gcc but not for riscv due to perl and i have to run each binary of benchmark indiviually. 
 you can change the link commnet/uncomment link to point ot your required toolchain for compiling the source code files and then run those benchmarks using appropriate simulator.
